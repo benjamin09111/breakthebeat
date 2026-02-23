@@ -1,0 +1,31 @@
+{
+    "sectionTitle": "NUESTROS",
+    "sectionTitleHighlight": "SERVICIOS",
+    "sectionSubtitle": "Desde el ensayo hasta la gran final, ofrecemos experiencias y talentos de alto nivel adaptados a tus ideas.",
+    "items": [
+        {
+            "id": "srv-01",
+            "title": "Clases de Baile K-Pop",
+            "description": "Aprende las coreografías de tus idols favoritos con métodos de entrenamiento profesional. Desde principiantes hasta formación para audiciones.",
+            "icon": "class"
+        },
+        {
+            "id": "srv-02",
+            "title": "Shows Completos",
+            "description": "Producciones listas para el escenario. Llevamos a nuestro crew con coreografías de alto impacto, vestuarios y sincronización perfecta.",
+            "icon": "show"
+        },
+        {
+            "id": "srv-03",
+            "title": "Participaciones en Eventos",
+            "description": "Actuaciones especiales para festivales, convenciones de K-Pop y eventos corporativos que necesitan una dosis explosiva de energía urbana.",
+            "icon": "event"
+        },
+        {
+            "id": "srv-04",
+            "title": "Bailes Pedidos Específicos",
+            "description": "¿Tienes una canción o idea en mente? Nosotros la montamos. Realizamos encargos coreográficos y covers customizados a tu medida.",
+            "icon": "custom"
+        }
+    ]
+}

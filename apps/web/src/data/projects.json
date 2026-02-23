@@ -1,0 +1,51 @@
+[
+    {
+        "id": "cover-01",
+        "name": "TEAMWORK",
+        "description": "Somos un grupo tributo a &TEAM conformado por 9 integrantes, especializado en un estilo de baile basado en hip-hop comercial y performance urbano, con coreografías estructuradas y potentes, sumado a formaciones dinámicas.\nNuestro proyecto ha trabajado canciones como “War Cry”, “Firework”, “Go In Blind” y “Under the Skin”, y recientemente “Back to Life” toma el lugar de nuestro proyecto más reciente.\nHemos presentado este proyecto en importantes escenarios como la competencia K-Pop Comicon, donde llegamos a la final, además de ser uno de los finalistas en Feria Friki organizada por Mallplaza. También fuimos parte de un show a beneficio de Teletón en Bajos de Mena, llevando nuestra energía y performance a un evento con causa social.\nDestacamos por nuestra sincronización impecable, fuerza grupal e intensidad escénica, transmitiendo una energía explosiva y elegante en cada presentación, reflejando la unidad y el poder que caracterizan al grupo que hacemos tributo.",
+        "image": "/3.jpeg",
+        "youtube": "https://www.youtube.com/watch?v=X8VZImOm6TU&t=132s",
+        "instagram": "https://www.instagram.com/teamwork.btb/",
+        "participants": [
+            "@teamwork.btb"
+        ]
+    },
+    {
+        "id": "cover-02",
+        "name": "PLOTLINE",
+        "description": "Somos un tributo a TWS integrado por 6 integrantes, enfocado en un estilo urban pop con base en hip-hop ligero, donde predominan el groove natural, el footwork dinámico y transiciones fluidas.\nNuestro proyecto incluye la canción “Plot Twist”, trabajando una vibra juvenil, brillante y refrescante que prioriza la naturalidad, limpieza de movimientos y conexión con el público.\nEste proyecto fue presentado en un show a beneficio de la Teletón en Bajos de Mena, reforzando nuestro compromiso con presentaciones que combinan energía positiva y propósito social.\nBuscamos transmitir la energía fresca y positiva, resaltando dinamismo y fluidez en cada performance.",
+        "image": "/4.jpeg",
+        "instagram": "",
+        "participants": []
+    },
+    {
+        "id": "cover-03",
+        "name": "XLOV",
+        "description": "Somos un grupo tributo a XLOV integrado por 4 integrantes, con un enfoque en performance urbano conceptual y experimental, donde predominan movimientos marcados, poses fuertes y un fuerte impacto visual.\nNuestro proyecto incluye la canción “Biii:-P”, y actualmente nos encontramos iniciando el proceso de montaje de “One&Only”, “Bizness” y “Rizz”, expandiendo así nuestro repertorio y explorando nuevas facetas del concepto del grupo.\nHemos presentado este tributo en Callejón Asiático, iniciativa impulsada por Mallplaza, y en un show en colaboración con KBiblio de la Municipalidad de Pudahuel, de la mano de Fundación GOTG.\nDestacamos una actitud atrevida, moderna y segura, priorizando intensidad, control corporal y presencia escénica para transmitir la esencia innovadora y dominante que caracteriza a XLOV.",
+        "image": "/1.jpeg",
+        "youtube": "https://youtu.be/C7DUtrIB4p4",
+        "participants": []
+    },
+    {
+        "id": "cover-04",
+        "name": "TEN",
+        "description": "Somos un tributo al solista TEN del grupo NCT, conformado por 9 integrantes, explorando un estilo que fusiona danza contemporánea y urbano, destacando líneas corporales estilizadas, extensiones limpias y control técnico avanzado.\nHemos trabajado canciones como “Stunner” y “Nightwalker”, enfocándonos en la musicalidad, elegancia y expresividad artística.\nNuestro performance proyecta una presencia hipnótica, sofisticada y versátil, cuidando cada detalle corporal para transmitir la esencia escénica característica de TEN.",
+        "image": "/1.jpeg",
+        "instagram": "https://www.instagram.com/reel/C67XOxzNevP/",
+        "youtube": "https://www.youtube.com/watch?v=3ETwSfRihjc",
+        "participants": [
+            "@breakthebeatdance"
+        ]
+    },
+    {
+        "id": "cover-05",
+        "name": "ROCKY",
+        "description": "Somos un tributo al solista Rocky del grupo ASTRO, conformado por 7 integrantes, con un estilo hip-hop coreográfico de alta precisión, caracterizado por movimientos rápidos, marcados y técnicamente exigentes.\nNuestro proyecto incluye las canciones “Jealousy” y “Masterpiece”, donde destacamos una energía apasionada, intensa y carismática.\nTrabajamos potencia, velocidad y limpieza en cada acento musical para reflejar la fuerza y presencia escénica que lo distinguen.",
+        "image": "/2.jpeg",
+        "instagram": "https://www.instagram.com/reel/DGf-RpRxUH4/",
+        "youtube": "https://www.youtube.com/watch?v=wCvyz6quF2U",
+        "participants": [
+            "@breakthebeatdance"
+        ]
+    }
+]

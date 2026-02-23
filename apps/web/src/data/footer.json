@@ -1,0 +1,46 @@
+{
+    "brand": {
+        "name": "BREAKTHEBEAT",
+        "description": "Una organización de baile con visión global. Desde nuestro studio principal formamos talentos, producimos covers y creamos proyectos de baile. Apuntamos a lo grande y seguir creciendo cada día."
+    },
+    "contact": {
+        "title": "PONTE EN CONTACTO",
+        "email": "breakthebeatdance@gmail.com",
+        "phone": "+56 9 57597032",
+        "address": "Santiago, Chile"
+    },
+    "links": {
+        "title": "EXPLORA",
+        "items": [
+            {
+                "label": "Nosotros",
+                "href": "#about-us"
+            },
+            {
+                "label": "Servicios",
+                "href": "#"
+            },
+            {
+                "label": "Studio Rental",
+                "href": "#"
+            },
+            {
+                "label": "Casting",
+                "href": "#"
+            }
+        ]
+    },
+    "socials": [
+        {
+            "platform": "instagram",
+            "href": "https://www.instagram.com/breakthebeatdance/",
+            "icon": "instagram"
+        },
+        {
+            "platform": "youtube",
+            "href": "https://www.youtube.com/@benjaminbmin",
+            "icon": "youtube"
+        }
+    ],
+    "copyright": "© 2026 Breakthebeat Entertainment. Todos los derechos reservados."
+}

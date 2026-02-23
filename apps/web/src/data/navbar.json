@@ -1,0 +1,18 @@
+{
+    "logo": "BREAKTHEBEAT",
+    "links": [
+        {
+            "label": "SOBRE NOSOTROS Y NUESTROS PROYECTOS",
+            "href": "#about-us"
+        },
+        {
+            "label": "SERVICIOS",
+            "href": "#services"
+        },
+        {
+            "label": "CONTACTO",
+            "href": "#contact"
+        }
+    ],
+    "rightLinks": []
+}
