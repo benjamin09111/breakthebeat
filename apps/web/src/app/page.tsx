@@ -21,7 +21,7 @@ export default function Home() {
             playsInline
             className="w-full h-full object-cover object-center scale-[1.02]"
           >
-            <source src="/header_video.mp4" type="video/mp4" />
+            <source src="https://res.cloudinary.com/db33lys5k/video/upload/header_video_sljtcs.mp4" type="video/mp4" />
           </video>
         </div>
 
